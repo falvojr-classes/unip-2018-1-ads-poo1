@@ -11,7 +11,8 @@
 ## Conteúdo Programático
 
 1. Abstração
-1. Linguagem C# e Encapsulamento
+1. Linguagem C#
+1. Encapsulamento
 1. Herança
 1. Polimorfismo
 1. Interfaces
