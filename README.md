@@ -12,7 +12,7 @@
 
 1. [Abstração](https://goo.gl/hCJ9R2)
 1. [Linguagem C#](https://goo.gl/RhvvCu)
-1. [Encapsulamento](https://goo.gl/ew6LUT)
+1. [Encapsulamento](https://goo.gl/Pct9TH)
 1. Herança
 1. Polimorfismo
 1. Interfaces
