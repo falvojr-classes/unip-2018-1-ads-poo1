@@ -20,6 +20,10 @@
 1. Persistência
 1. Plataforma .NET
 
+## Trabalhos
+
++ [Trabalho Preparatório NP1](https://docs.google.com/document/d/1i4u8UZF8Z2lLHvl77FUGJZwGNieHSuIiBFpnQJWkPgU/edit?usp=sharing)
+
 ### Links Úteis
 
 [Curso FN-13: C# e Orientação a Objetos (Caelum)](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/)
