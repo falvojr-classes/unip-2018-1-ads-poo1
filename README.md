@@ -15,9 +15,9 @@
 1. [Encapsulamento](https://drive.google.com/open?id=1kFMkHtbanPkQKdJ5-jB5HVty4evdi7PlcP2OkDabAh4)
 1. [Herança](https://drive.google.com/open?id=1MFas3XAeewpOiYYldFDXog6Z41pZcUys3K0RoXrMlA8)
 1. [Polimorfismo](https://drive.google.com/open?id=1wjhXtCKZVy3b4l2rlqco_yTuPX9dm05GZI8NF9Wjevs)
-1. Padrões de Projeto (Prática)
-1. Persistência (Prática)
-1. Plataforma .NET (Prática)
+1. *Padrões de Projeto (Prática: ProjetoBase.zip)*
+1. *Persistência (Prática: ProjetoBase.zip)*
+1. *Plataforma .NET (Prática: ProjetoBase.zip)*
 
 ## Trabalhos
 
