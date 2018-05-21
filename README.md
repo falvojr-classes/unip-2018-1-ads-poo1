@@ -15,13 +15,14 @@
 1. [Encapsulamento](https://drive.google.com/open?id=1kFMkHtbanPkQKdJ5-jB5HVty4evdi7PlcP2OkDabAh4)
 1. [Herança](https://drive.google.com/open?id=1MFas3XAeewpOiYYldFDXog6Z41pZcUys3K0RoXrMlA8)
 1. [Polimorfismo](https://drive.google.com/open?id=1wjhXtCKZVy3b4l2rlqco_yTuPX9dm05GZI8NF9Wjevs)
-1. Padrões de Projeto (Prática)
-1. Persistência (Prática)
-1. Plataforma .NET (Prática)
+1. Padrões de Projeto *(Prática: ProjetoBase.zip)*
+1. Persistência *(Prática: ProjetoBase.zip)*
+1. Plataforma .NET *(Prática: ProjetoBase.zip)*
 
 ## Trabalhos
 
 + [Trabalho Preparatório NP1](https://docs.google.com/document/d/1i4u8UZF8Z2lLHvl77FUGJZwGNieHSuIiBFpnQJWkPgU/edit?usp=sharing) (resolução disponível [aqui](https://github.com/falvojr-coach/unip-2018-1-ads-poo1/blob/master/T1/Trabalho1.zip))
++ [Trabalho Preparatório NP2](https://drive.google.com/open?id=15jlHyEsFXxvp2nC0pNyWwS7q8EiiNXqlhDrQ8QH_-XM)
 
 ### Links Úteis
 
