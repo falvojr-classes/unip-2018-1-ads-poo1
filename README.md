@@ -2,28 +2,25 @@
 
 ## Objetivos
 
-+ Apresentar os princípios da Programação Orientada a Objetos (POO);
-+ Consolidar os conceitos de programação baseada em objetos; 
-+ Compreender os conceitos fundamentais de POO;
-+ Apresentar a linguagem OO C#;
-+ Capacitar os alunos a implementarem aplicações utilizando o paradigma de POO em C#.
++ Aprofundar o estudo dos conceitos referentes à POO;
++ Utilizar C# no desenvolvimento de aplicações em camadas, no acesso a dados e no desenvolvimento de relatórios;
++ Desenvolver a partir dos diagramas UML. 
 
 ## Conteúdo Programático
 
-1. [Abstração](https://drive.google.com/open?id=1jA6XZNwJ9xporLn7RpYz3ExgofKfaAhuQgszTPiQu4A)
-1. [Linguagem C#](https://drive.google.com/open?id=17QU6xzWyzZSDJYN4SDOg3FA0PZFtDpk2Gu-FC_ebKd8)
-1. [Encapsulamento](https://drive.google.com/open?id=1kFMkHtbanPkQKdJ5-jB5HVty4evdi7PlcP2OkDabAh4)
-1. [Herança](https://drive.google.com/open?id=1MFas3XAeewpOiYYldFDXog6Z41pZcUys3K0RoXrMlA8)
-1. [Polimorfismo](https://drive.google.com/open?id=1wjhXtCKZVy3b4l2rlqco_yTuPX9dm05GZI8NF9Wjevs)
-1. Padrões de Projeto *(Prática: ProjetoBase.zip)*
-1. Persistência *(Prática: ProjetoBase.zip)*
-1. Plataforma .NET *(Prática: ProjetoBase.zip)*
+1. Introdução
+1. Unified Modeling Language (UML)
+    1. Diagrama de Caso de Uso
+    1. Diagrama de Classes
+    1. Diagrama de Sequencias
+1. Padrões
+    1. MVC
+    1. DAO
+    1. Singleton
+    1. Strategy
+1. Frameworks e Bibliotecas
+
 
 ## Trabalhos
 
-+ [Trabalho Preparatório NP1](https://docs.google.com/document/d/1i4u8UZF8Z2lLHvl77FUGJZwGNieHSuIiBFpnQJWkPgU/edit?usp=sharing) (resolução disponível [aqui](https://github.com/falvojr-coach/unip-2018-1-ads-poo1/blob/master/T1/Trabalho1.zip))
-+ [Trabalho Preparatório NP2](https://drive.google.com/open?id=15jlHyEsFXxvp2nC0pNyWwS7q8EiiNXqlhDrQ8QH_-XM)
-
-### Links Úteis
-
-[Curso FN-13: C# e Orientação a Objetos (Caelum)](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/)
+TODO
