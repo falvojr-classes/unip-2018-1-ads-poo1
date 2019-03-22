@@ -21,7 +21,7 @@
 
 ## Trabalhos
 
-+ [Trabalho Preparatório NP1](https://docs.google.com/document/d/1i4u8UZF8Z2lLHvl77FUGJZwGNieHSuIiBFpnQJWkPgU/edit?usp=sharing) (resolução disponível [aqui](https://github.com/falvojr-coach/unip-2018-1-ads-poo1/blob/master/T1/Trabalho1.zip))
++ [Trabalho Preparatório NP1](https://docs.google.com/document/d/1i4u8UZF8Z2lLHvl77FUGJZwGNieHSuIiBFpnQJWkPgU/edit?usp=sharing) 
 + [Trabalho Preparatório NP2](https://drive.google.com/open?id=15jlHyEsFXxvp2nC0pNyWwS7q8EiiNXqlhDrQ8QH_-XM)
 
 ### Links Úteis
